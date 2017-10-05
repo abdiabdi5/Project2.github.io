@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manchester City!"
+title:  "Manchester City - Abdi Abdi"
 date:   2017-09-28 13:01:05 -0500
 ---
 # Abdi Abdi
