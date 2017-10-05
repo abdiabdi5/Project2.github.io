@@ -7,7 +7,7 @@ title: Juan Segura post
 
 # Career Goals
 
-Howdy! My name is Karim Hussain.
+Howdy! My name is Juan Segura.
 
 As a technology management major, my area of knowledge involves unix systems administration, end user support, and cybersecurity.
 
